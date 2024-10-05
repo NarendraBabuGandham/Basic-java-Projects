@@ -22,3 +22,8 @@ Any Java IDE (e.g., Eclipse, IntelliJ IDEA, or VSCode), or you can compile and r
 **1.Random Number Generation:**
 
 The program uses the  **Random** class to generate a random number between 1 and 100:
+
+```java
+Random random = new Random();
+int randomNumber = random.nextInt(100) + 1;
+```
