@@ -1,5 +1,5 @@
-##Number Guessing Game
-Description
+# Number Guessing Game
+**Description**
 The Number Guessing Game is a simple console-based Java game. The program randomly generates a number between 1 and 100, and the user tries to guess the number. The program provides feedback on whether the guess is too high, too low, or correct. The game continues until the correct number is guessed, and it also tracks the number of attempts the user made.
 
 Features
